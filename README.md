@@ -4,4 +4,5 @@ The DLL works with most ATM malware samples that attack this type of ATM. Some e
 
 Based off Archi73ct's CSCWCNG-fake-dll. (https://github.com/Archi73ct/CSCWCNG-fake-dll)
 
+Here is the DLL in action:
 ![screenshot](screenie/github.png)
