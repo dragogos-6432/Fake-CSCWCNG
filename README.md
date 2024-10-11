@@ -3,3 +3,5 @@ This is a fake CSCWCNG DLL which emulates a Wincor Nixdorf/Diebold Nixdorf cash 
 The DLL works with most ATM malware samples that attack this type of ATM. Some exports are missing or don't do the intended thing they need to yet. Hopefully in newer versions it will be better.
 
 Based off Archi73ct's CSCWCNG-fake-dll. (https://github.com/Archi73ct/CSCWCNG-fake-dll)
+
+![screenshot](screenie/github.png)
