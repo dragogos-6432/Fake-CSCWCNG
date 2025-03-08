@@ -1,32 +1,14 @@
 LIBRARY "CSCWCNG"
 
 EXPORTS
-    CngDllLibName @1
-    CngLogicalName @2
-    CscDhlPara @3
-    RetCode @4
-    StatusReadBuffer @5
-    updateInfoP @6
-    isNumericChar @7
-    printBalances @8
-    manual_strtok_r @9
-    getCassetteIdByNum @10
-    inv_crypt @11
-    cassette_current @12
-    cassettes @13
-    cassettesAmounts @14
-    cassettesCurr @15
-    cassettesSummary @16
-    cassettesValues @17
-    CscCngClose @18
-    CscCngDispense @19
-    CscCngLock @20
+    CscCngClose @22
+    CscCngDispense @42
+    CscCngLock @26
     CscCngOpen @21
-    CscCngReset @22
-    CscCngStatusRead @23
-    CscCngTransport @24
-    CscCngUnlock @25
-    hCng @26
-    hInst @27
-    hLibCNG @28
+    CscCngReset @41
+    CscCngStatusRead @45
+    CscCngTransport @43
+    CscCngUnlock @27
+    CscCngShutter @44
+    
   
